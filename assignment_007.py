@@ -1,3 +1,6 @@
+
+
+___________________________________________________________________________________
 Duration: 180 minutes
 
 Note: You can make use of imdb.sqlite3 database given to solve this assignment
